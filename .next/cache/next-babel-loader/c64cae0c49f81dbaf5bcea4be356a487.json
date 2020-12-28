@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var whileHover = {\n  opacity: 0.8,\n  transition: {\n    duration: 0\n  }\n};\nexport var whileTap = {\n  scale: 0.96,\n  transition: {\n    duration: 0.1\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

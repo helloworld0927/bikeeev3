@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/about": "pages/about.html",
+  "/activities/[activity]": "pages/activities/[activity].html",
+  "/activities": "pages/activities.html",
+  "/authenticated": "pages/authenticated.html",
+  "/favourites": "pages/favourites.html",
+  "/handle_redirect": "pages/handle_redirect.html",
+  "/": "pages/index.html",
+  "/stats": "pages/stats.html",
+  "/test/[test]": "pages/test/[test].html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

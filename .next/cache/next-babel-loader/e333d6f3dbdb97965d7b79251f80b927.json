@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const asyncFetch = async (url, token) => {\n  const response = await fetch(url, {\n    method: \"get\",\n    headers: {\n      \"content-type\": \"application/json\",\n      authorization: \"Bearer \" + token\n    }\n  });\n  return response;\n};","map":null,"metadata":{},"sourceType":"module"}

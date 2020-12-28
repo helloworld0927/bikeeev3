@@ -1,0 +1,30 @@
+{
+  "../../components/activityDetailMap": [
+    {
+      "id": "4ZJM",
+      "file": "static/chunks/2c796e83.c3e19324722f05bdfc7f.js"
+    },
+    {
+      "id": "Jhew",
+      "file": "static/chunks/29.3a9190569d6a4ff7b6b3.js"
+    },
+    {
+      "id": "UEtB",
+      "file": "static/chunks/29.3a9190569d6a4ff7b6b3.js"
+    }
+  ],
+  "../../components/activityDetailMapMini": [
+    {
+      "id": "4ZJM",
+      "file": "static/chunks/2c796e83.c3e19324722f05bdfc7f.js"
+    },
+    {
+      "id": "HPrf",
+      "file": "static/chunks/30.9eb1130590df62df6433.js"
+    },
+    {
+      "id": "UEtB",
+      "file": "static/chunks/30.9eb1130590df62df6433.js"
+    }
+  ]
+}

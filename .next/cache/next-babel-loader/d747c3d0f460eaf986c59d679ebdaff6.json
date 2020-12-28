@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from \"styled-components\";\nexport const PageHeader = styled.h3.withConfig({\n  displayName: \"pageHeader__PageHeader\",\n  componentId: \"soh6x7-0\"\n})([\"margin-top:0;margin-bottom:\", \";\"], props => props.theme.tokens.spacing.L.value);","map":null,"metadata":{},"sourceType":"module"}
